@@ -29,6 +29,4 @@ This project demonstrates the process of:
 - Data cleaning in Google Sheets
 - Data visualization (charts, summary table)
 - Clear documentation for reproducibility
-- Data cleaning in Google Sheets
-- Data visualization (charts, summary tables)
-- Clear documentation for reproducibility
+
