@@ -17,7 +17,7 @@ This project demonstrates the process of:
 ## Files
 - `scraping.py` → Python script to scrape exchange rates.
 - `exchange_rates_bs.csv - exchange_rates_bs.csv` → PDF of cleaned data and charts in Google Sheets.
-- Google Sheets (live version) → [View Here](https://docs.google.com/spreadsheets/d/1nHtkpjA9faEIF8C4TmK-qEBGWIhwyX_xrqVErABpkTQ/edit?usp=sharing)
+- Google Sheets → [View Here](https://docs.google.com/spreadsheets/d/1nHtkpjA9faEIF8C4TmK-qEBGWIhwyX_xrqVErABpkTQ/edit?usp=sharing)
 
 ## Results
 - Raw scraped exchange rates were imported into Google Sheets.
